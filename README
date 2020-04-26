@@ -20,7 +20,7 @@ efectos de continuar las pruebas y la presentación del trabajo, se encuentran d
 https://drive.google.com/open?id=1QkWH8xujLCVJ_2-j_whZIfbelXJyfE4O
 
 ##################################################
-#-----    Dependencias   -----#
+#-----    Dependencias                       -----#
 ##################################################
 
 Las dependencias asociadas a la correcta ejecución y visualización de nuestra implementación son las siguientes:
@@ -39,7 +39,7 @@ nltk.download('stopwords')
 !python -m spacy download en_core_web_sm
 
 ##################################################
-#-----    Librerias    -----#
+#-----    Librerias                         -----#
 ##################################################
 
 
