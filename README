@@ -1,9 +1,10 @@
-   Trabajo Final de Data Science
+Trabajo Final de Data Science
+
+El documento se encuentra bajo el nombre de TrabajoFinalDataScience.
 
 Estos son los notebooks creados para la entrega del trabajo final
 
 Integrantes del Grupo :
-
 
 -  Dennier Agreda López
 -  Karla Rojas Velez
@@ -13,8 +14,6 @@ Ejecutarlo en el siguiente orden:
 
 proyectoDS1
 proyectoDS2
-
-- El documento se encuentra bajo el nombre de TrabajoFinalDataScience.
 
 =============================================================================================================================
 Las dependencias asociadas a la correcta ejecución y visualización de nuestra implementación son las siguientes:
