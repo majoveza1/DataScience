@@ -14,8 +14,9 @@ Ejecutarlo en el siguiente orden:
 proyectoDS1
 proyectoDS2
 
-El documento se encuentra bajo el nombre de TrabajoFinalDataScience.
+- El documento se encuentra bajo el nombre de TrabajoFinalDataScience.
 
+=============================================================================================================================
 Las dependencias asociadas a la correcta ejecución y visualización de nuestra implementación son las siguientes:
 
 - Correr los siguientes comandos para instalar los paquetes necesarios:
