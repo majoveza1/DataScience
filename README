@@ -18,7 +18,7 @@ El documento se encuentra bajo el nombre de TrabajoFinalDataScience.
 
 Las dependencias asociadas a la correcta ejecución y visualización de nuestra implementación son las siguientes:
 
-correr los siguientes comandos para instalar los paquetes necesarios:
+- Correr los siguientes comandos para instalar los paquetes necesarios:
 
 !pip install langdetect
 !pip install wordcloud
@@ -27,3 +27,35 @@ nltk.download('stopwords')
 !pip install plotnine
 !pip install vaderSentiment
 !pip install lightgbm
+
+- Librerias requeridas:
+
+import numpy as np
+import pandas as pd
+import datetime as dt
+import re
+import warnings
+warnings.filterwarnings('ignore')
+
+## Visualización
+from plotnine import *
+import folium
+import seaborn as sns
+from IPython.display import Image, HTML
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud, STOPWORDS,ImageColorGenerator
+
+## Análisis de Datos - Modelamiento
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import linear_kernel
+from langdetect import detect
+import nltk
+from nltk.corpus import stopwords
+import plotly.express as px
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+!python -m spacy download en
+!python -m spacy download es
+import spacy
+import en_core_web_sm
+from ast import literal_eval
+from string import punctuation
