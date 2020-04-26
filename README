@@ -1,4 +1,6 @@
-Trabajo Final de Data Science
+##################################################
+#-----    Trabajo Final de Data Science    -----#
+##################################################
 
 El documento se encuentra bajo el nombre de TrabajoFinalDataScience.
 
@@ -15,7 +17,10 @@ Ejecutarlo en el siguiente orden:
 proyectoDS1
 proyectoDS2
 
-=============================================================================================================================
+##################################################
+#-----    Dependencias   -----#
+##################################################
+
 Las dependencias asociadas a la correcta ejecución y visualización de nuestra implementación son las siguientes:
 
 - Correr los siguientes comandos para instalar los paquetes necesarios:
@@ -28,7 +33,10 @@ nltk.download('stopwords')
 !pip install vaderSentiment
 !pip install lightgbm
 
-- Librerias requeridas:
+##################################################
+#-----    Librerias    -----#
+##################################################
+
 
 import numpy as np
 import pandas as pd
