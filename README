@@ -37,7 +37,7 @@ import re
 import warnings
 warnings.filterwarnings('ignore')
 
-## Visualización
+- Visualización
 from plotnine import *
 import folium
 import seaborn as sns
@@ -45,7 +45,7 @@ from IPython.display import Image, HTML
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud, STOPWORDS,ImageColorGenerator
 
-## Análisis de Datos - Modelamiento
+-  Análisis de Datos - Modelamiento
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
 from langdetect import detect
