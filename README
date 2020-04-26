@@ -26,3 +26,4 @@ nltk.download('stopwords')
 !pip install -U ggplot
 !pip install plotnine
 !pip install vaderSentiment
+!pip install lightgbm
