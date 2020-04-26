@@ -34,8 +34,11 @@ Las dependencias asociadas a la correcta ejecución y visualización de nuestra 
 nltk.download('stopwords')
 !pip install -U ggplot
 !pip install plotnine
-!pip install vaderSentiment
 !pip install lightgbm
+!pip install -U spacy
+!python -m spacy download en
+!python -m spacy download es
+!python -m spacy download en_core_web_sm
 
 ##################################################
 #-----    Librerias    -----#
